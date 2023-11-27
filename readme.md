@@ -95,3 +95,4 @@ bot.buy_token()
 TODO: Add sell and check_price example codes.
 TODO: Add images to README
 # ccake_uni_transaction_bot
+# cake_uni_transaction_bot
