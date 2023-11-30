@@ -3,3 +3,4 @@ keys.py
 **/.vscode
 **/deploy_erc20
 **/.ipynb_checkpoints
+.env
