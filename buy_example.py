@@ -5,7 +5,7 @@ from txns import Txn_bot
 # token_address = '0xe9e7cea3dedca5984780bafc599bd69add087d56' #BUSD bsc-mainnet
 token_address = "0xf9ba5210f91d0474bd1e1dcdaec4c58e359aad85"
 
-quantity = 0.13*10**18
+quantity = 0.12*10**18
 net = 'eth-rinkeby'
 slippage = 30 #%
 gas_price = 1*10**9 #Gwei, bsc-mainnet=5, eth-mainnet=https://www.gasnow.org/, eth-rinkeby=1
